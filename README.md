@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bhuiyan1357700/bhuiyan1357700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anas+%F0%9F%91%8B;Cybersecurity+student+in+Kobe%2C+Japan;Building+things+that+help+people" alt="Typing intro" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### `$ whoami`
+
+```yaml
+name:      Bhuiyan Anas (Axel)
+location:  Kobe, Japan
+studying:  IT & Cybersecurity @ Kobe Institute of Computing
+focus:     web security · app development · building useful tools
+languages: English · 日本語
+```
+
+### `$ cat now.txt`
+
+- 🛰️ Leading **Team BBC (Beneficial Bit Computing)** — building **Beacon**, an offline disaster-evacuation app that guides you by voice to the right shelter for the type of disaster, even with no signal (Flutter)
+- 🔐 Learning web security through PortSwigger Web Security Academy
+- 🎯 Long-term goal: running my own cybersecurity consultancy
+
+---
+
+### `$ ls ~/projects`
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Ponno（পণ্য）**](https://github.com/bhuiyan1357700/ponno) | Bilingual (JP ⇄ EN) site introducing Bangladesh's four export industries, with furigana toggle, quizzes and progress tracking | React · Vite · CSS |
+| [**UOchecker**](https://github.com/hayato-122/UOchecker) | Team project — snap a photo of a fish you caught to identify it and check local fishing rights | Python · Docker |
+| [**website**](https://github.com/bhuiyan1357700/website) | Personal / business website | HTML · CSS · JS |
+| **Beacon** *(in progress)* | Offline disaster-evacuation navigation app | Flutter · Dart |
+
+---
+
+### `$ tech --stack`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,js,html,css,python,docker,linux,git,github,vscode,figma&theme=dark" alt="Tech stack" />
+</p>
+
+---
+
+### `$ git log --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhuiyan1357700&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyan1357700&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=bhuiyan1357700&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>🛡️ Break things to learn how they work — then make them safer.</sub>
+</div>
