@@ -11,7 +11,7 @@
 ```yaml
 name:      Bhuiyan Anas (Axel)
 location:  Kobe, Japan
-studying:  IT & Cybersecurity @ Kobe Institute of Computing
+studying:  IT & Cybersecurity (vocational school, Kobe)
 focus:     web security · app development · building useful tools
 languages: English · 日本語
 ```
