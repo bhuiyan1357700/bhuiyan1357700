@@ -39,7 +39,16 @@ languages: English · 日本語
 ### `$ tech --stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,js,html,css,python,docker,linux,git,github,vscode,figma&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,flask,flutter,dart,react,vite,js,html,css,docker,linux,git,github,vscode,figma&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Vosk_(speech--to--text)-444?style=flat-square" alt="Vosk" />
+  <img src="https://img.shields.io/badge/Text--to--Speech-444?style=flat-square" alt="Text to speech" />
+  <img src="https://img.shields.io/badge/Computer_Vision-444?style=flat-square" alt="Computer vision" />
+  <img src="https://img.shields.io/badge/Machine_Learning-444?style=flat-square" alt="Machine learning" />
 </p>
 
 ---
