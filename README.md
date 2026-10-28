@@ -28,6 +28,7 @@ languages: English · 日本語
 
 | Project | What it is | Stack |
 |---|---|---|
+| **Koe（声）** 🤟 | Sign language → speech: recognizes signs from a webcam, builds a natural Japanese sentence and speaks it aloud — plus live speech-to-text captions, so it works both ways | Python · MediaPipe · scikit-learn · Vosk |
 | [**Ponno（পণ্য）**](https://github.com/bhuiyan1357700/ponno) | Bilingual (JP ⇄ EN) site introducing Bangladesh's four export industries, with furigana toggle, quizzes and progress tracking | React · Vite · CSS |
 | [**UOchecker**](https://github.com/hayato-122/UOchecker) | Team project — snap a photo of a fish you caught to identify it and check local fishing rights | Python · Docker |
 | [**website**](https://github.com/bhuiyan1357700/website) | Personal / business website | HTML · CSS · JS |
